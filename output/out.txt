@@ -1,0 +1,1920 @@
+297 {'score': 4972, 'action': 'left', 'won': False} False 1
+tensor([[254.5364, 305.5443, 262.0687, 355.7360]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   0.   2.]
+ [  2.  64.   4.   2.]
+ [256.   8.   4.   0.]
+ [  4.  32. 256.   8.]]
+298 {'score': 4992, 'action': 'down', 'won': False} False 2
+tensor([[33.7583, 27.7834, 34.4612, 29.4290]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   0.   0.]
+ [  2.  64.   2.   0.]
+ [256.   8.   8.   4.]
+ [  4.  32. 256.   8.]]
+299 {'score': 5008, 'action': 'left', 'won': False} False 1
+tensor([[24.6970, 26.4820, 25.3297, 28.3354]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   0.   0.]
+ [  2.  64.   2.   0.]
+ [256.  16.   4.   2.]
+ [  4.  32. 256.   8.]]
+300 {'score': 5008, 'action': 'right', 'won': False} False 0
+tensor([[18.0688, 18.3407, 18.5005, 18.7797]], grad_fn=<AddmmBackward>)
+[[  0.   4.  16.   8.]
+ [  0.   2.  64.   2.]
+ [256.  16.   4.   2.]
+ [  4.  32. 256.   8.]]
+301 {'score': 5012, 'action': 'down', 'won': False} False 1
+tensor([[16.0192, 15.9458, 16.3914, 15.9741]], grad_fn=<AddmmBackward>)
+[[  0.   4.  16.   2.]
+ [  0.   2.  64.   8.]
+ [256.  16.   4.   4.]
+ [  4.  32. 256.   8.]]
+302 {'score': 5020, 'action': 'right', 'won': False} False 1
+tensor([[15.8987, 15.7995, 16.2673, 15.8025]], grad_fn=<AddmmBackward>)
+[[  0.   4.  16.   2.]
+ [  2.   2.  64.   8.]
+ [  0. 256.  16.   8.]
+ [  4.  32. 256.   8.]]
+303 {'score': 5024, 'action': 'left', 'won': False} False 1
+tensor([[21.3991, 22.4778, 21.9328, 23.6376]], grad_fn=<AddmmBackward>)
+[[  4.  16.   2.   2.]
+ [  4.  64.   8.   0.]
+ [256.  16.   8.   0.]
+ [  4.  32. 256.   8.]]
+304 {'score': 5064, 'action': 'down', 'won': False} False 2
+tensor([[43.1051, 33.4088, 43.9696, 35.7732]], grad_fn=<AddmmBackward>)
+[[  0.  16.   0.   2.]
+ [  8.  64.   2.   0.]
+ [256.  16.  16.   2.]
+ [  4.  32. 256.   8.]]
+305 {'score': 5096, 'action': 'left', 'won': False} False 1
+tensor([[32.4527, 35.8987, 33.3182, 39.3832]], grad_fn=<AddmmBackward>)
+[[ 16.   2.   0.   2.]
+ [  8.  64.   2.   0.]
+ [256.  32.   2.   0.]
+ [  4.  32. 256.   8.]]
+306 {'score': 5228, 'action': 'down', 'won': False} False 2
+tensor([[22.0527, 20.7384, 22.5533, 21.4838]], grad_fn=<AddmmBackward>)
+[[ 16.   0.   0.   2.]
+ [  8.   2.   0.   0.]
+ [256.  64.   4.   2.]
+ [  4.  64. 256.   8.]]
+307 {'score': 5488, 'action': 'down', 'won': False} False 2
+tensor([[73.9065, 51.9464, 75.3033, 56.6796]], grad_fn=<AddmmBackward>)
+[[ 16.   0.   2.   0.]
+ [  8.   0.   0.   0.]
+ [256.   2.   4.   4.]
+ [  4. 128. 256.   8.]]
+308 {'score': 5496, 'action': 'left', 'won': False} False 1
+tensor([[38.7933, 43.5973, 39.8492, 48.4154]], grad_fn=<AddmmBackward>)
+[[ 16.   2.   2.   0.]
+ [  8.   0.   0.   0.]
+ [256.   2.   8.   0.]
+ [  4. 128. 256.   8.]]
+309 {'score': 5500, 'action': 'left', 'won': False} False 1
+tensor([[39.0833, 43.9494, 40.1479, 48.8284]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   0.   2.]
+ [  8.   0.   0.   0.]
+ [256.   2.   8.   0.]
+ [  4. 128. 256.   8.]]
+310 {'score': 5500, 'action': 'left', 'won': False} False 0
+tensor([[43.5140, 49.3289, 44.7116, 55.1398]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   2.   0.]
+ [  8.   0.   0.   2.]
+ [256.   2.   8.   0.]
+ [  4. 128. 256.   8.]]
+311 {'score': 5500, 'action': 'left', 'won': False} False 0
+tensor([[45.2061, 51.3834, 46.4544, 57.5501]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   2.   0.]
+ [  8.   2.   0.   0.]
+ [256.   2.   8.   2.]
+ [  4. 128. 256.   8.]]
+312 {'score': 5504, 'action': 'up', 'won': False} False 1
+tensor([[49.7525, 56.9035, 51.1374, 64.0264]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   2.   2.]
+ [  8.   4.   8.   8.]
+ [256. 128. 256.   0.]
+ [  4.   0.   2.   0.]]
+313 {'score': 5528, 'action': 'left', 'won': False} False 2
+tensor([[328.5110, 393.6711, 338.2288, 459.0524]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   4.   2.]
+ [  8.   4.  16.   0.]
+ [256. 128. 256.   0.]
+ [  4.   2.   0.   0.]]
+314 {'score': 5536, 'action': 'left', 'won': False} False 1
+tensor([[225.1309, 269.8412, 231.7805, 313.8486]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   2.   0.]
+ [  8.   4.  16.   4.]
+ [256. 128. 256.   0.]
+ [  4.   2.   0.   0.]]
+315 {'score': 5536, 'action': 'up', 'won': False} False 0
+tensor([[186.6679, 223.1409, 192.1628, 259.0590]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   2.   4.]
+ [  8.   4.  16.   0.]
+ [256. 128. 256.   2.]
+ [  4.   2.   0.   0.]]
+316 {'score': 5536, 'action': 'down', 'won': False} False 0
+tensor([[199.4008, 238.6007, 205.2780, 277.1967]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   0.   2.]
+ [  8.   4.   2.   0.]
+ [256. 128.  16.   4.]
+ [  4.   2. 256.   2.]]
+317 {'score': 5536, 'action': 'down', 'won': False} False 0
+tensor([[15.6107, 15.4498, 15.9707, 15.3923]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   0.   2.]
+ [  8.   4.   2.   2.]
+ [256. 128.  16.   4.]
+ [  4.   2. 256.   2.]]
+318 {'score': 5540, 'action': 'left', 'won': False} False 1
+tensor([[18.1319, 18.5110, 18.5675, 18.9837]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   2.   0.]
+ [  8.   4.   4.   2.]
+ [256. 128.  16.   4.]
+ [  4.   2. 256.   2.]]
+319 {'score': 5548, 'action': 'right', 'won': False} False 1
+tensor([[15.5744, 15.4057, 15.9332, 15.3405]], grad_fn=<AddmmBackward>)
+[[  2.  16.   8.   2.]
+ [  0.   8.   8.   2.]
+ [256. 128.  16.   4.]
+ [  4.   2. 256.   2.]]
+320 {'score': 5584, 'action': 'down', 'won': False} False 2
+tensor([[28.0926, 24.3735, 28.6976, 25.5834]], grad_fn=<AddmmBackward>)
+[[  0.  16.   2.   0.]
+ [  2.   8.  16.   4.]
+ [256. 128.  16.   4.]
+ [  4.   2. 256.   2.]]
+321 {'score': 5656, 'action': 'down', 'won': False} False 2
+tensor([[35.3735, 28.7555, 36.1044, 30.5254]], grad_fn=<AddmmBackward>)
+[[  0.  16.   2.   0.]
+ [  2.   8.   2.   0.]
+ [256. 128.  32.   8.]
+ [  4.   2. 256.   2.]]
+322 {'score': 5660, 'action': 'down', 'won': False} False 1
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[  0.  16.   0.   0.]
+ [  2.   8.   4.   2.]
+ [256. 128.  32.   8.]
+ [  4.   2. 256.   2.]]
+323 {'score': 5660, 'action': 'left', 'won': False} False 0
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[ 16.   2.   0.   0.]
+ [  2.   8.   4.   2.]
+ [256. 128.  32.   8.]
+ [  4.   2. 256.   2.]]
+324 {'score': 5660, 'action': 'up', 'won': False} False 0
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[ 16.   2.   4.   2.]
+ [  2.   8.  32.   8.]
+ [256. 128. 256.   2.]
+ [  4.   2.   2.   0.]]
+325 {'score': 5660, 'action': 'down', 'won': False} False 0
+tensor([[19.0841, 18.9518, 19.5334, 19.4689]], grad_fn=<AddmmBackward>)
+[[ 16.   2.   4.   2.]
+ [  2.   8.  32.   2.]
+ [256. 128. 256.   8.]
+ [  4.   2.   2.   2.]]
+326 {'score': 5664, 'action': 'left', 'won': False} False 1
+tensor([[18.7520, 18.7519, 19.1956, 19.2435]], grad_fn=<AddmmBackward>)
+[[ 16.   2.   4.   2.]
+ [  2.   8.  32.   2.]
+ [256. 128. 256.   8.]
+ [  4.   4.   2.   2.]]
+327 {'score': 5684, 'action': 'left', 'won': False} False 2
+tensor([[18.6718, 18.7036, 19.1140, 19.1891]], grad_fn=<AddmmBackward>)
+[[ 16.   2.   4.   2.]
+ [  2.   8.  32.   2.]
+ [256. 128. 256.   8.]
+ [  8.   4.   0.   2.]]
+328 {'score': 5688, 'action': 'down', 'won': False} False 1
+tensor([[19.2940, 19.0781, 19.7469, 19.6114]], grad_fn=<AddmmBackward>)
+[[ 16.   2.   0.   2.]
+ [  2.   8.   4.   4.]
+ [256. 128.  32.   8.]
+ [  8.   4. 256.   2.]]
+329 {'score': 5704, 'action': 'left', 'won': False} False 2
+tensor([[17.0966, 17.2539, 17.5011, 17.5088]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   0.   0.]
+ [  2.   8.   8.   2.]
+ [256. 128.  32.   8.]
+ [  8.   4. 256.   2.]]
+330 {'score': 5704, 'action': 'up', 'won': False} False 0
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   8.   2.]
+ [  2.   8.  32.   8.]
+ [256. 128. 256.   2.]
+ [  8.   4.   2.   0.]]
+331 {'score': 5704, 'action': 'down', 'won': False} False 0
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   8.   2.]
+ [  2.   8.  32.   2.]
+ [256. 128. 256.   8.]
+ [  8.   4.   2.   2.]]
+332 {'score': 5708, 'action': 'down', 'won': False} False 1
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   8.   2.]
+ [  2.   8.  32.   4.]
+ [256. 128. 256.   8.]
+ [  8.   4.   2.   2.]]
+333 {'score': 5712, 'action': 'right', 'won': False} False 1
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   8.   2.]
+ [  2.   8.  32.   4.]
+ [256. 128. 256.   8.]
+ [  2.   8.   4.   4.]]
+334 {'score': 5720, 'action': 'right', 'won': False} False 1
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   8.   2.]
+ [  2.   8.  32.   4.]
+ [256. 128. 256.   8.]
+ [  2.   2.   8.   8.]]
+335 {'score': 5736, 'action': 'down', 'won': False} False 1
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   8.   2.]
+ [  2.   8.  32.   2.]
+ [256. 128. 256.   4.]
+ [  2.   2.   8.  16.]]
+336 {'score': 5740, 'action': 'down', 'won': False} False 1
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   8.   2.]
+ [  2.   8.  32.   4.]
+ [256. 128. 256.   4.]
+ [  2.   2.   8.  16.]]
+337 {'score': 5748, 'action': 'down', 'won': False} False 1
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   8.   4.]
+ [  2.   8.  32.   2.]
+ [256. 128. 256.   8.]
+ [  2.   2.   8.  16.]]
+338 {'score': 5752, 'action': 'left', 'won': False} True 1
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   8.   4.]
+ [  2.   8.  32.   2.]
+ [256. 128. 256.   8.]
+ [  4.   8.  16.   2.]]
+276 {'score': 5956, 'action': 'left', 'won': False} False 2
+tensor([[423.5359, 510.7370, 436.1415, 596.4717]], grad_fn=<AddmmBackward>)
+[[  8.   0.   0.   2.]
+ [  2.  32.   4.   0.]
+ [  4. 512.   0.   0.]
+ [  4.  32.  16.   2.]]
+277 {'score': 5976, 'action': 'down', 'won': False} False 2
+tensor([[29.6268, 25.2969, 30.2584, 26.6248]], grad_fn=<AddmmBackward>)
+[[  0.   0.   2.   0.]
+ [  8.  32.   0.   0.]
+ [  2. 512.   4.   0.]
+ [  8.  32.  16.   4.]]
+278 {'score': 5976, 'action': 'left', 'won': False} False 0
+tensor([[19.5525, 19.4483, 20.0143, 20.0482]], grad_fn=<AddmmBackward>)
+[[  2.   0.   0.   0.]
+ [  8.  32.   2.   0.]
+ [  2. 512.   4.   0.]
+ [  8.  32.  16.   4.]]
+279 {'score': 5976, 'action': 'right', 'won': False} False 0
+tensor([[32.2092, 26.8511, 32.8854, 28.3776]], grad_fn=<AddmmBackward>)
+[[  2.   0.   0.   2.]
+ [  0.   8.  32.   2.]
+ [  0.   2. 512.   4.]
+ [  8.  32.  16.   4.]]
+280 {'score': 5996, 'action': 'down', 'won': False} False 2
+tensor([[15.9575, 15.8708, 16.3278, 15.8862]], grad_fn=<AddmmBackward>)
+[[  0.   0.   0.   2.]
+ [  0.   8.  32.   0.]
+ [  2.   2. 512.   4.]
+ [  8.  32.  16.   8.]]
+281 {'score': 6000, 'action': 'left', 'won': False} False 1
+tensor([[19.9760, 20.7499, 20.4669, 21.6104]], grad_fn=<AddmmBackward>)
+[[  2.   0.   0.   0.]
+ [  8.  32.   4.   0.]
+ [  4. 512.   4.   0.]
+ [  8.  32.  16.   8.]]
+282 {'score': 6008, 'action': 'down', 'won': False} False 1
+tensor([[40.8504, 32.0518, 41.6759, 34.2428]], grad_fn=<AddmmBackward>)
+[[  2.   0.   0.   0.]
+ [  8.  32.   0.   0.]
+ [  4. 512.   8.   2.]
+ [  8.  32.  16.   8.]]
+283 {'score': 6008, 'action': 'right', 'won': False} False 0
+tensor([[31.9170, 26.6753, 32.5882, 28.1793]], grad_fn=<AddmmBackward>)
+[[  0.   2.   0.   2.]
+ [  0.   0.   8.  32.]
+ [  4. 512.   8.   2.]
+ [  8.  32.  16.   8.]]
+284 {'score': 6024, 'action': 'down', 'won': False} False 1
+tensor([[40.0371, 31.5623, 40.8485, 33.6908]], grad_fn=<AddmmBackward>)
+[[  0.   0.   0.   2.]
+ [  0.   2.   2.  32.]
+ [  4. 512.  16.   2.]
+ [  8.  32.  16.   8.]]
+285 {'score': 6056, 'action': 'down', 'won': False} False 1
+tensor([[32.6330, 27.1062, 33.3165, 28.6652]], grad_fn=<AddmmBackward>)
+[[  0.   0.   0.   2.]
+ [  0.   2.   2.  32.]
+ [  4. 512.   2.   2.]
+ [  8.  32.  32.   8.]]
+286 {'score': 6060, 'action': 'down', 'won': False} False 1
+tensor([[32.9235, 27.2810, 33.6120, 28.8624]], grad_fn=<AddmmBackward>)
+[[  0.   0.   0.   2.]
+ [  0.   2.   2.  32.]
+ [  4. 512.   4.   2.]
+ [  8.  32.  32.   8.]]
+287 {'score': 6060, 'action': 'up', 'won': False} False 0
+tensor([[32.9110, 27.2734, 33.5993, 28.8539]], grad_fn=<AddmmBackward>)
+[[  4.   2.   2.   2.]
+ [  8. 512.   4.  32.]
+ [  4.  32.  32.   2.]
+ [  0.   0.   0.   8.]]
+288 {'score': 6132, 'action': 'left', 'won': False} False 2
+tensor([[30.3812, 33.0055, 31.1767, 35.9720]], grad_fn=<AddmmBackward>)
+[[  4.   4.   2.   0.]
+ [  8. 512.   4.  32.]
+ [  4.  64.   2.   0.]
+ [  8.   0.   2.   0.]]
+289 {'score': 6136, 'action': 'down', 'won': False} False 1
+tensor([[20.4553, 19.7770, 20.9283, 20.3996]], grad_fn=<AddmmBackward>)
+[[  4.   0.   0.   2.]
+ [  8.   4.   2.   0.]
+ [  4. 512.   4.   0.]
+ [  8.  64.   4.  32.]]
+290 {'score': 6144, 'action': 'down', 'won': False} False 1
+tensor([[48.3279, 36.5521, 49.2827, 39.3182]], grad_fn=<AddmmBackward>)
+[[  4.   0.   4.   0.]
+ [  8.   4.   0.   0.]
+ [  4. 512.   2.   2.]
+ [  8.  64.   8.  32.]]
+291 {'score': 6144, 'action': 'down', 'won': False} False 0
+tensor([[47.3509, 35.9640, 48.2887, 38.6550]], grad_fn=<AddmmBackward>)
+[[  4.   0.   0.   2.]
+ [  8.   4.   4.   0.]
+ [  4. 512.   2.   2.]
+ [  8.  64.   8.  32.]]
+292 {'score': 6148, 'action': 'down', 'won': False} False 1
+tensor([[49.3448, 37.1641, 50.3172, 40.0084]], grad_fn=<AddmmBackward>)
+[[  4.   0.   4.   0.]
+ [  8.   4.   4.   0.]
+ [  4. 512.   2.   4.]
+ [  8.  64.   8.  32.]]
+293 {'score': 6156, 'action': 'down', 'won': False} False 1
+tensor([[50.2416, 37.7038, 51.2294, 40.6171]], grad_fn=<AddmmBackward>)
+[[  4.   2.   0.   0.]
+ [  8.   4.   8.   0.]
+ [  4. 512.   2.   4.]
+ [  8.  64.   8.  32.]]
+294 {'score': 6156, 'action': 'right', 'won': False} False 0
+tensor([[69.5416, 49.3195, 70.8630, 53.7170]], grad_fn=<AddmmBackward>)
+[[  0.   2.   4.   2.]
+ [  0.   8.   4.   8.]
+ [  4. 512.   2.   4.]
+ [  8.  64.   8.  32.]]
+295 {'score': 6164, 'action': 'down', 'won': False} False 1
+tensor([[41.8923, 32.6788, 42.7359, 34.9500]], grad_fn=<AddmmBackward>)
+[[  2.   2.   0.   2.]
+ [  0.   8.   8.   8.]
+ [  4. 512.   2.   4.]
+ [  8.  64.   8.  32.]]
+296 {'score': 6188, 'action': 'left', 'won': False} False 2
+tensor([[63.1851, 73.2128, 64.9731, 83.1608]], grad_fn=<AddmmBackward>)
+[[  4.   2.   0.   0.]
+ [ 16.   8.   2.   0.]
+ [  4. 512.   2.   4.]
+ [  8.  64.   8.  32.]]
+297 {'score': 6192, 'action': 'down', 'won': False} False 1
+tensor([[31.6118, 26.4915, 32.2776, 27.9721]], grad_fn=<AddmmBackward>)
+[[  4.   2.   0.   2.]
+ [ 16.   8.   0.   0.]
+ [  4. 512.   4.   4.]
+ [  8.  64.   8.  32.]]
+298 {'score': 6192, 'action': 'down', 'won': False} False 0
+tensor([[29.6510, 25.3114, 30.2829, 26.6412]], grad_fn=<AddmmBackward>)
+[[  4.   2.   0.   2.]
+ [ 16.   8.   0.   2.]
+ [  4. 512.   4.   4.]
+ [  8.  64.   8.  32.]]
+299 {'score': 6196, 'action': 'down', 'won': False} False 1
+tensor([[33.1818, 27.8605, 33.8836, 29.5542]], grad_fn=<AddmmBackward>)
+[[  4.   2.   2.   0.]
+ [ 16.   8.   0.   4.]
+ [  4. 512.   4.   4.]
+ [  8.  64.   8.  32.]]
+300 {'score': 6212, 'action': 'left', 'won': False} False 2
+tensor([[33.4002, 36.7864, 34.2887, 40.4129]], grad_fn=<AddmmBackward>)
+[[  4.   4.   2.   0.]
+ [ 16.   8.   4.   0.]
+ [  4. 512.   8.   0.]
+ [  8.  64.   8.  32.]]
+301 {'score': 6228, 'action': 'down', 'won': False} False 1
+tensor([[51.3747, 38.9513, 52.3939, 42.0750]], grad_fn=<AddmmBackward>)
+[[  4.   4.   0.   0.]
+ [ 16.   8.   2.   4.]
+ [  4. 512.   4.   0.]
+ [  8.  64.  16.  32.]]
+302 {'score': 6236, 'action': 'left', 'won': False} False 1
+tensor([[46.0464, 47.6681, 47.2215, 52.9798]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   0.]
+ [ 16.   8.   2.   4.]
+ [  4. 512.   4.   0.]
+ [  8.  64.  16.  32.]]
+303 {'score': 6236, 'action': 'down', 'won': False} False 0
+tensor([[49.7757, 41.2373, 50.8348, 44.9457]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   2.]
+ [ 16.   8.   2.   0.]
+ [  4. 512.   4.   4.]
+ [  8.  64.  16.  32.]]
+304 {'score': 6236, 'action': 'down', 'won': False} False 0
+tensor([[51.2967, 39.1250, 52.3191, 42.2908]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   2.]
+ [ 16.   8.   2.   2.]
+ [  4. 512.   4.   4.]
+ [  8.  64.  16.  32.]]
+305 {'score': 6264, 'action': 'left', 'won': False} False 3
+tensor([[47.9440, 54.7077, 49.2746, 61.4503]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   0.]
+ [ 16.   8.   4.   2.]
+ [  4. 512.   8.   0.]
+ [  8.  64.  16.  32.]]
+306 {'score': 6264, 'action': 'down', 'won': False} False 0
+tensor([[65.5622, 46.9245, 66.8148, 51.0160]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   0.]
+ [ 16.   8.   4.   2.]
+ [  4. 512.   8.   2.]
+ [  8.  64.  16.  32.]]
+307 {'score': 6268, 'action': 'down', 'won': False} False 1
+tensor([[64.9310, 46.5446, 66.1727, 50.5875]], grad_fn=<AddmmBackward>)
+[[  8.   4.   4.   0.]
+ [ 16.   8.   4.   0.]
+ [  4. 512.   8.   4.]
+ [  8.  64.  16.  32.]]
+308 {'score': 6276, 'action': 'down', 'won': False} False 1
+tensor([[71.1745, 50.3022, 72.5241, 54.8253]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   0.]
+ [ 16.   8.   8.   0.]
+ [  4. 512.   8.   4.]
+ [  8.  64.  16.  32.]]
+309 {'score': 6292, 'action': 'down', 'won': False} False 1
+tensor([[77.8443, 54.3164, 79.3092, 59.3524]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   2.]
+ [ 16.   8.   2.   0.]
+ [  4. 512.  16.   4.]
+ [  8.  64.  16.  32.]]
+310 {'score': 6324, 'action': 'down', 'won': False} False 1
+tensor([[61.3047, 44.3621, 62.4838, 48.1262]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   0.]
+ [ 16.   8.   0.   2.]
+ [  4. 512.   2.   4.]
+ [  8.  64.  32.  32.]]
+311 {'score': 6388, 'action': 'left', 'won': False} False 1
+tensor([[ 87.4043, 102.6188,  89.9194, 117.6604]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   2.]
+ [ 16.   8.   2.   0.]
+ [  4. 512.   2.   4.]
+ [  8.  64.  64.   0.]]
+312 {'score': 6392, 'action': 'down', 'won': False} False 1
+tensor([[65.4639, 46.8653, 66.7148, 50.9492]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   0.]
+ [ 16.   8.   2.   0.]
+ [  4. 512.   4.   2.]
+ [  8.  64.  64.   4.]]
+313 {'score': 6396, 'action': 'down', 'won': False} False 1
+tensor([[64.9403, 46.5501, 66.1821, 50.5938]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   2.]
+ [ 16.   8.   4.   0.]
+ [  4. 512.   4.   2.]
+ [  8.  64.  64.   4.]]
+314 {'score': 6416, 'action': 'down', 'won': False} False 2
+tensor([[73.3763, 51.6273, 74.7639, 56.3198]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   2.]
+ [ 16.   8.   0.   0.]
+ [  4. 512.   8.   4.]
+ [  8.  64.  64.   4.]]
+315 {'score': 6424, 'action': 'down', 'won': False} False 1
+tensor([[58.2861, 42.5453, 59.4129, 46.0773]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   2.]
+ [ 16.   8.   0.   0.]
+ [  4. 512.   8.   2.]
+ [  8.  64.  64.   8.]]
+316 {'score': 6428, 'action': 'down', 'won': False} False 1
+tensor([[57.2723, 41.9352, 58.3817, 45.3892]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   0.]
+ [ 16.   8.   2.   0.]
+ [  4. 512.   8.   4.]
+ [  8.  64.  64.   8.]]
+317 {'score': 6556, 'action': 'left', 'won': False} False 1
+tensor([[60.5031, 43.8796, 61.6682, 47.5821]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   0.]
+ [ 16.   8.   2.   0.]
+ [  4. 512.   8.   4.]
+ [  8. 128.   8.   0.]]
+318 {'score': 6592, 'action': 'down', 'won': False} False 2
+tensor([[65.7479, 47.0362, 67.0038, 51.1420]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   0.]
+ [ 16.   8.   0.   4.]
+ [  4. 512.   4.   0.]
+ [  8. 128.  16.   4.]]
+319 {'score': 6600, 'action': 'down', 'won': False} False 1
+tensor([[61.6851, 44.5910, 62.8707, 48.3844]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   0.]
+ [ 16.   8.   0.   0.]
+ [  4. 512.   4.   0.]
+ [  8. 128.  16.   8.]]
+320 {'score': 6600, 'action': 'down', 'won': False} False 0
+tensor([[58.3108, 42.5602, 59.4381, 46.0941]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   0.]
+ [ 16.   8.   2.   0.]
+ [  4. 512.   4.   4.]
+ [  8. 128.  16.   8.]]
+321 {'score': 6608, 'action': 'left', 'won': False} False 1
+tensor([[60.6139, 43.9464, 61.7810, 47.6573]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   2.]
+ [ 16.   8.   2.   0.]
+ [  4. 512.   8.   0.]
+ [  8. 128.  16.   8.]]
+322 {'score': 6608, 'action': 'down', 'won': False} False 0
+tensor([[61.5494, 44.5094, 62.7326, 48.2923]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   2.]
+ [ 16.   8.   2.   0.]
+ [  4. 512.   8.   2.]
+ [  8. 128.  16.   8.]]
+323 {'score': 6612, 'action': 'down', 'won': False} False 1
+tensor([[61.1388, 44.2623, 62.3150, 48.0136]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   2.]
+ [ 16.   8.   2.   0.]
+ [  4. 512.   8.   4.]
+ [  8. 128.  16.   8.]]
+324 {'score': 6612, 'action': 'down', 'won': False} False 0
+tensor([[60.8377, 44.0810, 62.0087, 47.8092]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   0.]
+ [ 16.   8.   2.   2.]
+ [  4. 512.   8.   4.]
+ [  8. 128.  16.   8.]]
+325 {'score': 6616, 'action': 'left', 'won': False} False 1
+tensor([[60.4696, 59.9912, 61.9697, 67.2057]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   0.]
+ [ 16.   8.   4.   2.]
+ [  4. 512.   8.   4.]
+ [  8. 128.  16.   8.]]
+326 {'score': 6616, 'action': 'up', 'won': False} False 0
+tensor([[68.4908, 48.6870, 69.7941, 53.0038]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   2.]
+ [ 16.   8.   4.   4.]
+ [  4. 512.   8.   8.]
+ [  8. 128.  16.   2.]]
+327 {'score': 6660, 'action': 'left', 'won': False} False 3
+tensor([[69.2381, 53.2822, 70.6405, 58.5596]], grad_fn=<AddmmBackward>)
+[[  8.   4.   4.   0.]
+ [ 16.   8.   8.   0.]
+ [  4. 512.  16.   2.]
+ [  8. 128.  16.   2.]]
+328 {'score': 6728, 'action': 'down', 'won': False} False 2
+tensor([[71.8634, 50.7168, 73.2249, 55.2929]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   0.]
+ [ 16.   8.   4.   0.]
+ [  4. 512.   8.   0.]
+ [  8. 128.  32.   4.]]
+329 {'score': 6728, 'action': 'right', 'won': False} False 0
+tensor([[68.4629, 48.6702, 69.7656, 52.9848]], grad_fn=<AddmmBackward>)
+[[  0.   8.   4.   2.]
+ [  0.  16.   8.   4.]
+ [  2.   4. 512.   8.]
+ [  8. 128.  32.   4.]]
+330 {'score': 6728, 'action': 'up', 'won': False} False 0
+tensor([[44.3165, 34.1378, 45.2019, 36.5954]], grad_fn=<AddmmBackward>)
+[[  2.   8.   4.   2.]
+ [  8.  16.   8.   4.]
+ [  0.   4. 512.   8.]
+ [  2. 128.  32.   4.]]
+331 {'score': 6728, 'action': 'down', 'won': False} True 0
+tensor([[51.6962, 38.5793, 52.7092, 41.6044]], grad_fn=<AddmmBackward>)
+[[  4.   8.   4.   2.]
+ [  2.  16.   8.   4.]
+ [  8.   4. 512.   8.]
+ [  2. 128.  32.   4.]]
+275 {'score': 6576, 'action': 'down', 'won': False} False 2
+tensor([[469.6902, 284.0802, 477.8014, 317.9292]], grad_fn=<AddmmBackward>)
+[[  0.   0.   4.   2.]
+ [  4.   0.  32.   2.]
+ [ 16.   2.   8.   8.]
+ [  2. 512.   4.   2.]]
+276 {'score': 6592, 'action': 'left', 'won': False} False 1
+tensor([[55.2950, 63.6330, 56.8463, 71.9216]], grad_fn=<AddmmBackward>)
+[[  4.   2.   2.   0.]
+ [  4.  32.   2.   0.]
+ [ 16.   2.  16.   0.]
+ [  2. 512.   4.   2.]]
+277 {'score': 6596, 'action': 'left', 'won': False} False 1
+tensor([[37.8746, 42.4817, 38.9029, 47.1066]], grad_fn=<AddmmBackward>)
+[[  4.   4.   0.   0.]
+ [  4.  32.   2.   2.]
+ [ 16.   2.  16.   0.]
+ [  2. 512.   4.   2.]]
+278 {'score': 6616, 'action': 'left', 'won': False} False 2
+tensor([[45.5203, 51.7649, 46.7781, 57.9977]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   0.]
+ [  4.  32.   4.   0.]
+ [ 16.   2.  16.   0.]
+ [  2. 512.   4.   2.]]
+279 {'score': 6616, 'action': 'right', 'won': False} False 0
+tensor([[35.4106, 39.4901, 36.3649, 43.5967]], grad_fn=<AddmmBackward>)
+[[  0.   0.   8.   2.]
+ [  0.   4.  32.   4.]
+ [  2.  16.   2.  16.]
+ [  2. 512.   4.   2.]]
+280 {'score': 6616, 'action': 'left', 'won': False} False 0
+tensor([[31.7567, 35.0536, 32.6013, 38.3918]], grad_fn=<AddmmBackward>)
+[[  8.   2.   4.   0.]
+ [  4.  32.   4.   0.]
+ [  2.  16.   2.  16.]
+ [  2. 512.   4.   2.]]
+281 {'score': 6632, 'action': 'down', 'won': False} False 2
+tensor([[39.7794, 38.7702, 40.7395, 42.4831]], grad_fn=<AddmmBackward>)
+[[  0.   2.   0.   0.]
+ [  8.  32.   8.   2.]
+ [  4.  16.   2.  16.]
+ [  4. 512.   4.   2.]]
+282 {'score': 6632, 'action': 'left', 'won': False} False 0
+tensor([[38.6449, 43.4170, 39.6963, 48.2039]], grad_fn=<AddmmBackward>)
+[[  2.   0.   0.   2.]
+ [  8.  32.   8.   2.]
+ [  4.  16.   2.  16.]
+ [  4. 512.   4.   2.]]
+283 {'score': 6636, 'action': 'left', 'won': False} False 1
+tensor([[41.7233, 47.1548, 42.8671, 52.5891]], grad_fn=<AddmmBackward>)
+[[  4.   0.   0.   2.]
+ [  8.  32.   8.   2.]
+ [  4.  16.   2.  16.]
+ [  4. 512.   4.   2.]]
+284 {'score': 6636, 'action': 'left', 'won': False} False 0
+tensor([[42.0408, 47.5402, 43.1941, 53.0413]], grad_fn=<AddmmBackward>)
+[[  4.   2.   2.   0.]
+ [  8.  32.   8.   2.]
+ [  4.  16.   2.  16.]
+ [  4. 512.   4.   2.]]
+285 {'score': 6640, 'action': 'left', 'won': False} False 1
+tensor([[41.4913, 46.8731, 42.6282, 52.2586]], grad_fn=<AddmmBackward>)
+[[  4.   4.   0.   2.]
+ [  8.  32.   8.   2.]
+ [  4.  16.   2.  16.]
+ [  4. 512.   4.   2.]]
+286 {'score': 6648, 'action': 'left', 'won': False} False 1
+tensor([[43.4188, 49.2133, 44.6135, 55.0041]], grad_fn=<AddmmBackward>)
+[[  8.   2.   2.   0.]
+ [  8.  32.   8.   2.]
+ [  4.  16.   2.  16.]
+ [  4. 512.   4.   2.]]
+287 {'score': 6652, 'action': 'left', 'won': False} False 1
+tensor([[43.6132, 49.4493, 44.8137, 55.2811]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   2.]
+ [  8.  32.   8.   2.]
+ [  4.  16.   2.  16.]
+ [  4. 512.   4.   2.]]
+288 {'score': 6652, 'action': 'left', 'won': False} False 0
+tensor([[44.7693, 50.8530, 46.0045, 56.9279]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   2.]
+ [  8.  32.   8.   2.]
+ [  4.  16.   2.  16.]
+ [  4. 512.   4.   2.]]
+289 {'score': 6656, 'action': 'left', 'won': False} False 1
+tensor([[48.1534, 54.9619, 49.4902, 61.7485]], grad_fn=<AddmmBackward>)
+[[  8.   4.   4.   2.]
+ [  8.  32.   8.   2.]
+ [  4.  16.   2.  16.]
+ [  4. 512.   4.   2.]]
+290 {'score': 6664, 'action': 'left', 'won': False} False 1
+tensor([[49.4172, 56.4963, 50.7919, 63.5487]], grad_fn=<AddmmBackward>)
+[[  8.   8.   2.   2.]
+ [  8.  32.   8.   2.]
+ [  4.  16.   2.  16.]
+ [  4. 512.   4.   2.]]
+291 {'score': 6700, 'action': 'left', 'won': False} False 2
+tensor([[53.7372, 61.7416, 55.2417, 69.7026]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   2.   0.]
+ [  8.  32.   8.   2.]
+ [  4.  16.   2.  16.]
+ [  4. 512.   4.   2.]]
+292 {'score': 6700, 'action': 'right', 'won': False} False 0
+tensor([[41.6048, 47.0108, 42.7450, 52.4202]], grad_fn=<AddmmBackward>)
+[[  2.  16.   4.   2.]
+ [  8.  32.   8.   2.]
+ [  4.  16.   2.  16.]
+ [  4. 512.   4.   2.]]
+293 {'score': 6716, 'action': 'up', 'won': False} False 2
+tensor([[44.6933, 50.7608, 45.9263, 56.8197]], grad_fn=<AddmmBackward>)
+[[  2.  16.   4.   4.]
+ [  8.  32.   8.  16.]
+ [  8.  16.   2.   2.]
+ [  2. 512.   4.   0.]]
+294 {'score': 6736, 'action': 'left', 'won': False} False 2
+tensor([[52.2069, 59.8835, 53.6654, 67.5226]], grad_fn=<AddmmBackward>)
+[[  2.  16.   8.   0.]
+ [  8.  32.   8.  16.]
+ [  8.  16.   4.   0.]
+ [  2. 512.   4.   2.]]
+295 {'score': 6808, 'action': 'down', 'won': False} False 3
+tensor([[70.9559, 50.1706, 72.3017, 54.6769]], grad_fn=<AddmmBackward>)
+[[  0.  16.   2.   0.]
+ [  2.  32.   0.   0.]
+ [ 16.  16.  16.  16.]
+ [  2. 512.   8.   2.]]
+296 {'score': 6904, 'action': 'left', 'won': False} False 2
+tensor([[ 84.0040,  98.4903,  86.4170, 112.8168]], grad_fn=<AddmmBackward>)
+[[ 16.   2.   0.   0.]
+ [  2.  32.   0.   0.]
+ [ 32.  32.   2.   0.]
+ [  2. 512.   8.   2.]]
+297 {'score': 6968, 'action': 'down', 'won': False} False 1
+tensor([[61.0363, 44.2006, 62.2107, 47.9440]], grad_fn=<AddmmBackward>)
+[[ 16.   0.   0.   0.]
+ [  2.   2.   0.   0.]
+ [ 32.  64.   2.   2.]
+ [  2. 512.   8.   2.]]
+298 {'score': 6980, 'action': 'left', 'won': False} False 2
+tensor([[51.3798, 58.8793, 52.8135, 66.3445]], grad_fn=<AddmmBackward>)
+[[ 16.   0.   4.   0.]
+ [  4.   0.   0.   0.]
+ [ 32.  64.   4.   0.]
+ [  2. 512.   8.   2.]]
+299 {'score': 6980, 'action': 'left', 'won': False} False 0
+tensor([[38.1927, 42.8680, 39.2305, 47.5597]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   0.   2.]
+ [  4.   0.   0.   0.]
+ [ 32.  64.   4.   0.]
+ [  2. 512.   8.   2.]]
+300 {'score': 6980, 'action': 'left', 'won': False} False 0
+tensor([[38.7377, 43.5297, 39.7919, 48.3361]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   2.   0.]
+ [  4.   2.   0.   0.]
+ [ 32.  64.   4.   0.]
+ [  2. 512.   8.   2.]]
+301 {'score': 6980, 'action': 'down', 'won': False} False 0
+tensor([[40.2605, 45.3786, 41.3604, 50.5053]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   0.   2.]
+ [  4.   2.   2.   0.]
+ [ 32.  64.   4.   0.]
+ [  2. 512.   8.   2.]]
+302 {'score': 6984, 'action': 'left', 'won': False} False 1
+tensor([[42.8231, 48.4900, 43.9999, 54.1556]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   2.   2.]
+ [  4.   4.   0.   0.]
+ [ 32.  64.   4.   0.]
+ [  2. 512.   8.   2.]]
+303 {'score': 7000, 'action': 'left', 'won': False} False 2
+tensor([[45.2419, 51.4269, 46.4914, 57.6012]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   4.   0.]
+ [  8.   0.   2.   0.]
+ [ 32.  64.   4.   0.]
+ [  2. 512.   8.   2.]]
+304 {'score': 7008, 'action': 'left', 'won': False} False 1
+tensor([[46.5102, 52.9668, 47.7977, 59.4079]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   2.   0.]
+ [  8.   2.   0.   0.]
+ [ 32.  64.   4.   0.]
+ [  2. 512.   8.   2.]]
+305 {'score': 7008, 'action': 'down', 'won': False} False 0
+tensor([[45.3809, 51.5956, 46.6345, 57.7991]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   0.   0.]
+ [  8.   2.   2.   0.]
+ [ 32.  64.   4.   2.]
+ [  2. 512.   8.   2.]]
+306 {'score': 7012, 'action': 'left', 'won': False} False 1
+tensor([[44.2113, 50.1755, 45.4298, 56.1331]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   0.   2.]
+ [  8.   4.   0.   0.]
+ [ 32.  64.   4.   2.]
+ [  2. 512.   8.   2.]]
+307 {'score': 7012, 'action': 'left', 'won': False} False 0
+tensor([[45.1218, 51.2810, 46.3676, 57.4301]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   2.   0.]
+ [  8.   4.   0.   2.]
+ [ 32.  64.   4.   2.]
+ [  2. 512.   8.   2.]]
+308 {'score': 7012, 'action': 'left', 'won': False} False 0
+tensor([[48.1972, 55.0151, 49.5353, 61.8109]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   2.   2.]
+ [  8.   4.   2.   0.]
+ [ 32.  64.   4.   2.]
+ [  2. 512.   8.   2.]]
+309 {'score': 7016, 'action': 'left', 'won': False} False 1
+tensor([[49.7841, 56.9419, 51.1699, 64.0714]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   0.]
+ [  8.   4.   2.   2.]
+ [ 32.  64.   4.   2.]
+ [  2. 512.   8.   2.]]
+310 {'score': 7020, 'action': 'left', 'won': False} False 1
+tensor([[54.6186, 62.8117, 56.1496, 70.9581]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   2.]
+ [  8.   4.   4.   0.]
+ [ 32.  64.   4.   2.]
+ [  2. 512.   8.   2.]]
+311 {'score': 7028, 'action': 'left', 'won': False} False 1
+tensor([[49.2293, 56.2682, 50.5985, 63.2812]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   2.]
+ [  8.   8.   0.   2.]
+ [ 32.  64.   4.   2.]
+ [  2. 512.   8.   2.]]
+312 {'score': 7044, 'action': 'left', 'won': False} False 1
+tensor([[60.9617, 70.5133, 62.6831, 79.9937]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   2.]
+ [ 16.   2.   0.   2.]
+ [ 32.  64.   4.   2.]
+ [  2. 512.   8.   2.]]
+313 {'score': 7176, 'action': 'down', 'won': False} False 4
+tensor([[66.6694, 58.5835, 68.1698, 65.1552]], grad_fn=<AddmmBackward>)
+[[  0.   8.   0.   0.]
+ [ 32.   2.   0.   2.]
+ [ 32.  64.   8.   4.]
+ [  2. 512.   8.   4.]]
+314 {'score': 7304, 'action': 'down', 'won': False} False 3
+tensor([[46.6958, 35.5698, 47.6224, 38.2104]], grad_fn=<AddmmBackward>)
+[[  0.   8.   0.   0.]
+ [  0.   2.   0.   0.]
+ [ 64.  64.   2.   2.]
+ [  2. 512.  16.   8.]]
+315 {'score': 7564, 'action': 'left', 'won': False} False 2
+tensor([[ 82.7968,  97.0246,  85.1737, 111.0972]], grad_fn=<AddmmBackward>)
+[[  8.   0.   0.   0.]
+ [  2.   0.   2.   0.]
+ [128.   4.   0.   0.]
+ [  2. 512.  16.   8.]]
+316 {'score': 7568, 'action': 'left', 'won': False} False 1
+tensor([[21.3921, 22.4694, 21.9256, 23.6278]], grad_fn=<AddmmBackward>)
+[[  8.   0.   0.   0.]
+ [  4.   0.   0.   2.]
+ [128.   4.   0.   0.]
+ [  2. 512.  16.   8.]]
+317 {'score': 7568, 'action': 'left', 'won': False} False 0
+tensor([[22.0663, 23.2880, 22.6201, 24.5881]], grad_fn=<AddmmBackward>)
+[[  8.   0.   2.   0.]
+ [  4.   2.   0.   0.]
+ [128.   4.   0.   0.]
+ [  2. 512.  16.   8.]]
+318 {'score': 7568, 'action': 'down', 'won': False} False 0
+tensor([[26.7515, 23.5664, 27.3333, 24.6731]], grad_fn=<AddmmBackward>)
+[[  8.   0.   2.   0.]
+ [  4.   2.   0.   0.]
+ [128.   4.   2.   0.]
+ [  2. 512.  16.   8.]]
+319 {'score': 7572, 'action': 'down', 'won': False} False 1
+tensor([[30.9952, 26.1204, 31.6504, 27.5536]], grad_fn=<AddmmBackward>)
+[[  8.   0.   2.   0.]
+ [  4.   2.   0.   0.]
+ [128.   4.   4.   0.]
+ [  2. 512.  16.   8.]]
+320 {'score': 7580, 'action': 'left', 'won': False} False 1
+tensor([[30.0212, 29.4531, 30.7410, 31.6651]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   0.]
+ [  4.   2.   0.   2.]
+ [128.   8.   0.   0.]
+ [  2. 512.  16.   8.]]
+321 {'score': 7584, 'action': 'left', 'won': False} False 1
+tensor([[21.8669, 23.0458, 22.4146, 24.3040]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   0.]
+ [  4.   4.   0.   0.]
+ [128.   8.   0.   4.]
+ [  2. 512.  16.   8.]]
+322 {'score': 7592, 'action': 'left', 'won': False} False 1
+tensor([[31.9423, 28.4862, 32.6512, 30.3834]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   2.]
+ [  8.   0.   0.   0.]
+ [128.   8.   4.   0.]
+ [  2. 512.  16.   8.]]
+323 {'score': 7596, 'action': 'left', 'won': False} False 1
+tensor([[35.3642, 34.4948, 36.2143, 37.5157]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   0.]
+ [  8.   0.   0.   0.]
+ [128.   8.   4.   0.]
+ [  2. 512.  16.   8.]]
+324 {'score': 7612, 'action': 'down', 'won': False} False 1
+tensor([[36.4145, 40.7090, 37.3990, 45.0268]], grad_fn=<AddmmBackward>)
+[[  4.   0.   0.   0.]
+ [ 16.   4.   2.   0.]
+ [128.   8.   4.   0.]
+ [  2. 512.  16.   8.]]
+325 {'score': 7612, 'action': 'right', 'won': False} False 0
+tensor([[22.7779, 24.1520, 23.3530, 25.6018]], grad_fn=<AddmmBackward>)
+[[  2.   0.   0.   4.]
+ [  0.  16.   4.   2.]
+ [  0. 128.   8.   4.]
+ [  2. 512.  16.   8.]]
+326 {'score': 7616, 'action': 'down', 'won': False} False 1
+tensor([[24.5300, 22.2294, 25.0734, 23.1653]], grad_fn=<AddmmBackward>)
+[[  0.   0.   0.   4.]
+ [  2.  16.   4.   2.]
+ [  0. 128.   8.   4.]
+ [  4. 512.  16.   8.]]
+327 {'score': 7616, 'action': 'down', 'won': False} False 0
+tensor([[24.2310, 22.0494, 24.7693, 22.9624]], grad_fn=<AddmmBackward>)
+[[  0.   0.   0.   4.]
+ [  2.  16.   4.   2.]
+ [  2. 128.   8.   4.]
+ [  4. 512.  16.   8.]]
+328 {'score': 7620, 'action': 'down', 'won': False} False 1
+tensor([[24.2157, 22.0402, 24.7537, 22.9520]], grad_fn=<AddmmBackward>)
+[[  0.   0.   2.   4.]
+ [  0.  16.   4.   2.]
+ [  4. 128.   8.   4.]
+ [  4. 512.  16.   8.]]
+329 {'score': 7628, 'action': 'down', 'won': False} False 1
+tensor([[24.1444, 21.9973, 24.6812, 22.9036]], grad_fn=<AddmmBackward>)
+[[  0.   2.   2.   4.]
+ [  0.  16.   4.   2.]
+ [  0. 128.   8.   4.]
+ [  8. 512.  16.   8.]]
+330 {'score': 7632, 'action': 'left', 'won': False} False 1
+tensor([[28.9897, 24.9135, 29.6102, 26.1924]], grad_fn=<AddmmBackward>)
+[[  4.   4.   0.   0.]
+ [ 16.   4.   2.   2.]
+ [128.   8.   4.   0.]
+ [  8. 512.  16.   8.]]
+331 {'score': 7652, 'action': 'left', 'won': False} False 2
+tensor([[35.1712, 39.1994, 36.1183, 43.2557]], grad_fn=<AddmmBackward>)
+[[  8.   0.   0.   4.]
+ [ 16.   4.   4.   0.]
+ [128.   8.   4.   0.]
+ [  8. 512.  16.   8.]]
+332 {'score': 7660, 'action': 'left', 'won': False} False 1
+tensor([[35.1224, 39.1402, 36.0681, 43.1862]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   0.]
+ [ 16.   8.   0.   2.]
+ [128.   8.   4.   0.]
+ [  8. 512.  16.   8.]]
+333 {'score': 7660, 'action': 'left', 'won': False} False 0
+tensor([[57.2616, 66.0207, 58.8718, 74.7229]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   0.]
+ [ 16.   8.   2.   0.]
+ [128.   8.   4.   0.]
+ [  8. 512.  16.   8.]]
+334 {'score': 7696, 'action': 'down', 'won': False} False 2
+tensor([[50.9067, 38.1041, 51.9060, 41.0685]], grad_fn=<AddmmBackward>)
+[[  8.   0.   0.   2.]
+ [ 16.   4.   4.   0.]
+ [128.  16.   4.   0.]
+ [  8. 512.  16.   8.]]
+335 {'score': 7704, 'action': 'left', 'won': False} False 1
+tensor([[31.2983, 34.4970, 32.1291, 37.7388]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   0.]
+ [ 16.   8.   0.   2.]
+ [128.  16.   4.   0.]
+ [  8. 512.  16.   8.]]
+336 {'score': 7704, 'action': 'down', 'won': False} False 0
+tensor([[22.5680, 21.0485, 23.0775, 21.8336]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   2.]
+ [ 16.   8.   0.   0.]
+ [128.  16.   4.   2.]
+ [  8. 512.  16.   8.]]
+337 {'score': 7708, 'action': 'down', 'won': False} False 1
+tensor([[27.7153, 24.1464, 28.3138, 25.3273]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   0.]
+ [ 16.   8.   0.   2.]
+ [128.  16.   4.   4.]
+ [  8. 512.  16.   8.]]
+338 {'score': 7716, 'action': 'left', 'won': False} False 1
+tensor([[32.4155, 35.8536, 33.2799, 39.3303]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   2.]
+ [ 16.   8.   2.   0.]
+ [128.  16.   8.   0.]
+ [  8. 512.  16.   8.]]
+339 {'score': 7720, 'action': 'left', 'won': False} False 1
+tensor([[27.0898, 29.3873, 27.7943, 31.7439]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   0.]
+ [ 16.   8.   2.   0.]
+ [128.  16.   8.   0.]
+ [  8. 512.  16.   8.]]
+340 {'score': 7720, 'action': 'right', 'won': False} False 0
+tensor([[30.5889, 33.6358, 31.3985, 36.7284]], grad_fn=<AddmmBackward>)
+[[  0.   8.   4.   2.]
+ [  2.  16.   8.   2.]
+ [  0. 128.  16.   8.]
+ [  8. 512.  16.   8.]]
+341 {'score': 7852, 'action': 'down', 'won': False} False 3
+tensor([[83.5315, 57.7392, 85.0947, 63.2126]], grad_fn=<AddmmBackward>)
+[[  0.   8.   2.   0.]
+ [  0.  16.   4.   0.]
+ [  2. 128.   8.   4.]
+ [  8. 512.  32.  16.]]
+342 {'score': 7852, 'action': 'up', 'won': False} False 0
+tensor([[23.2129, 21.4367, 23.7336, 22.2713]], grad_fn=<AddmmBackward>)
+[[  2.   8.   2.   4.]
+ [  8.  16.   4.  16.]
+ [  0. 128.   8.   0.]
+ [  2. 512.  32.   0.]]
+343 {'score': 7852, 'action': 'down', 'won': False} False 0
+tensor([[24.6989, 22.3310, 25.2453, 23.2800]], grad_fn=<AddmmBackward>)
+[[  0.   8.   2.   0.]
+ [  2.  16.   4.   4.]
+ [  8. 128.   8.   4.]
+ [  2. 512.  32.  16.]]
+344 {'score': 7860, 'action': 'down', 'won': False} False 1
+tensor([[27.2838, 23.8868, 27.8749, 25.0345]], grad_fn=<AddmmBackward>)
+[[  0.   8.   2.   2.]
+ [  2.  16.   4.   0.]
+ [  8. 128.   8.   8.]
+ [  2. 512.  32.  16.]]
+345 {'score': 7884, 'action': 'left', 'won': False} False 2
+tensor([[42.1117, 47.6262, 43.2671, 53.1422]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   0.]
+ [  2.  16.   4.   0.]
+ [  8. 128.  16.   2.]
+ [  2. 512.  32.  16.]]
+346 {'score': 7884, 'action': 'up', 'won': False} False 0
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[  8.   4.   4.   2.]
+ [  2.  16.  16.  16.]
+ [  8. 128.  32.   0.]
+ [  2. 512.   2.   0.]]
+347 {'score': 7932, 'action': 'left', 'won': False} False 2
+tensor([[53.8807, 61.9158, 55.3895, 69.9069]], grad_fn=<AddmmBackward>)
+[[  8.   8.   2.   0.]
+ [  2.  32.  16.   0.]
+ [  8. 128.  32.   2.]
+ [  2. 512.   2.   0.]]
+348 {'score': 7948, 'action': 'left', 'won': False} False 1
+tensor([[22.5583, 23.8853, 23.1267, 25.2889]], grad_fn=<AddmmBackward>)
+[[ 16.   2.   0.   4.]
+ [  2.  32.  16.   0.]
+ [  8. 128.  32.   2.]
+ [  2. 512.   2.   0.]]
+349 {'score': 7948, 'action': 'down', 'won': False} False 0
+tensor([[20.1280, 19.5800, 20.5953, 20.1774]], grad_fn=<AddmmBackward>)
+[[ 16.   2.   2.   0.]
+ [  2.  32.  16.   0.]
+ [  8. 128.  32.   4.]
+ [  2. 512.   2.   2.]]
+350 {'score': 7960, 'action': 'right', 'won': False} False 2
+tensor([[19.9847, 19.4938, 20.4496, 20.0802]], grad_fn=<AddmmBackward>)
+[[  2.   0.  16.   4.]
+ [  0.   2.  32.  16.]
+ [  8. 128.  32.   4.]
+ [  0.   2. 512.   4.]]
+351 {'score': 8040, 'action': 'down', 'won': False} False 2
+tensor([[70.8379, 50.0996, 72.1817, 54.5968]], grad_fn=<AddmmBackward>)
+[[  0.   0.   0.   0.]
+ [  2.   2.  16.   4.]
+ [  2. 128.  64.  16.]
+ [  8.   2. 512.   8.]]
+352 {'score': 8044, 'action': 'down', 'won': False} False 1
+tensor([[16.0323, 15.9616, 16.4048, 15.9928]], grad_fn=<AddmmBackward>)
+[[  0.   0.   2.   0.]
+ [  0.   2.  16.   4.]
+ [  4. 128.  64.  16.]
+ [  8.   2. 512.   8.]]
+353 {'score': 8044, 'action': 'left', 'won': False} False 0
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[  2.   0.   0.   4.]
+ [  2.  16.   4.   0.]
+ [  4. 128.  64.  16.]
+ [  8.   2. 512.   8.]]
+354 {'score': 8048, 'action': 'down', 'won': False} False 1
+tensor([[19.6447, 19.2892, 20.1037, 19.8494]], grad_fn=<AddmmBackward>)
+[[  0.   0.   2.   0.]
+ [  4.  16.   4.   4.]
+ [  4. 128.  64.  16.]
+ [  8.   2. 512.   8.]]
+355 {'score': 8056, 'action': 'down', 'won': False} False 1
+tensor([[19.3379, 19.1046, 19.7917, 19.6412]], grad_fn=<AddmmBackward>)
+[[  2.   0.   2.   0.]
+ [  0.  16.   4.   4.]
+ [  8. 128.  64.  16.]
+ [  8.   2. 512.   8.]]
+356 {'score': 8072, 'action': 'down', 'won': False} False 1
+tensor([[16.8147, 16.9117, 17.2108, 17.1074]], grad_fn=<AddmmBackward>)
+[[  2.   0.   2.   0.]
+ [  0.  16.   4.   4.]
+ [  2. 128.  64.  16.]
+ [ 16.   2. 512.   8.]]
+357 {'score': 8088, 'action': 'left', 'won': False} False 2
+tensor([[18.1360, 18.3812, 18.5690, 18.8254]], grad_fn=<AddmmBackward>)
+[[  4.   0.   0.   0.]
+ [ 16.   8.   0.   2.]
+ [  2. 128.  64.  16.]
+ [ 16.   2. 512.   8.]]
+358 {'score': 8088, 'action': 'up', 'won': False} False 0
+tensor([[19.5397, 19.2260, 19.9969, 19.7781]], grad_fn=<AddmmBackward>)
+[[  4.   8.  64.   2.]
+ [ 16. 128. 512.  16.]
+ [  2.   2.   0.   8.]
+ [ 16.   4.   0.   0.]]
+359 {'score': 8092, 'action': 'left', 'won': False} False 1
+tensor([[40.5802, 45.7668, 41.6896, 50.9606]], grad_fn=<AddmmBackward>)
+[[  4.   8.  64.   2.]
+ [ 16. 128. 512.  16.]
+ [  4.   8.   2.   0.]
+ [ 16.   4.   0.   0.]]
+360 {'score': 8092, 'action': 'down', 'won': False} False 0
+tensor([[32.6064, 27.0902, 33.2895, 28.6472]], grad_fn=<AddmmBackward>)
+[[  4.   8.   0.   2.]
+ [ 16. 128.  64.   0.]
+ [  4.   8. 512.   2.]
+ [ 16.   4.   2.  16.]]
+361 {'score': 8096, 'action': 'down', 'won': False} False 1
+tensor([[16.9752, 17.1065, 17.3761, 17.3359]], grad_fn=<AddmmBackward>)
+[[  4.   8.   0.   2.]
+ [ 16. 128.  64.   0.]
+ [  4.   8. 512.   4.]
+ [ 16.   4.   2.  16.]]
+362 {'score': 8096, 'action': 'down', 'won': False} False 0
+tensor([[16.9623, 17.0909, 17.3628, 17.3176]], grad_fn=<AddmmBackward>)
+[[  4.   8.   2.   0.]
+ [ 16. 128.  64.   2.]
+ [  4.   8. 512.   4.]
+ [ 16.   4.   2.  16.]]
+363 {'score': 8096, 'action': 'up', 'won': False} False 0
+tensor([[16.8536, 16.9589, 17.2508, 17.1627]], grad_fn=<AddmmBackward>)
+[[  4.   8.   2.   2.]
+ [ 16. 128.  64.   4.]
+ [  4.   8. 512.  16.]
+ [ 16.   4.   2.   2.]]
+364 {'score': 8108, 'action': 'right', 'won': False} False 2
+tensor([[16.6755, 16.7426, 17.0674, 16.9090]], grad_fn=<AddmmBackward>)
+[[  2.   4.   8.   4.]
+ [ 16. 128.  64.   4.]
+ [  4.   8. 512.  16.]
+ [  0.  16.   4.   4.]]
+365 {'score': 8116, 'action': 'left', 'won': False} False 1
+tensor([[27.5728, 29.9737, 28.2918, 32.4320]], grad_fn=<AddmmBackward>)
+[[  2.   4.   8.   4.]
+ [ 16. 128.  64.   4.]
+ [  4.   8. 512.  16.]
+ [ 16.   8.   0.   2.]]
+366 {'score': 8156, 'action': 'down', 'won': False} False 2
+tensor([[15.9847, 15.9039, 16.3559, 15.9250]], grad_fn=<AddmmBackward>)
+[[  2.   0.   2.   0.]
+ [ 16.   4.   8.   8.]
+ [  4. 128.  64.  16.]
+ [ 16.  16. 512.   2.]]
+367 {'score': 8232, 'action': 'right', 'won': False} False 3
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[  0.   0.   0.   4.]
+ [  2.  16.   4.  16.]
+ [  4. 128.  64.  16.]
+ [  0.  32. 512.   2.]]
+368 {'score': 8264, 'action': 'down', 'won': False} False 1
+tensor([[16.2391, 16.2128, 16.6179, 16.2874]], grad_fn=<AddmmBackward>)
+[[  0.   4.   0.   0.]
+ [  0.  16.   4.   4.]
+ [  2. 128.  64.  32.]
+ [  4.  32. 512.   2.]]
+369 {'score': 8264, 'action': 'up', 'won': False} False 0
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[  2.   4.   4.   4.]
+ [  4.  16.  64.  32.]
+ [  0. 128. 512.   2.]
+ [  0.  32.   2.   0.]]
+370 {'score': 8264, 'action': 'down', 'won': False} False 0
+tensor([[15.7226, 15.5856, 16.0858, 15.5516]], grad_fn=<AddmmBackward>)
+[[  0.   4.   4.   2.]
+ [  0.  16.  64.   4.]
+ [  2. 128. 512.  32.]
+ [  4.  32.   2.   2.]]
+371 {'score': 8284, 'action': 'left', 'won': False} False 2
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   0.]
+ [ 16.  64.   4.   0.]
+ [  2. 128. 512.  32.]
+ [  4.  32.   4.   2.]]
+372 {'score': 8284, 'action': 'up', 'won': False} False 0
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[  8.   2.   4.  32.]
+ [ 16.  64. 512.   2.]
+ [  2. 128.   4.   0.]
+ [  4.  32.   2.   0.]]
+373 {'score': 8284, 'action': 'right', 'won': False} False 0
+tensor([[23.7984, 25.3910, 24.4041, 27.0555]], grad_fn=<AddmmBackward>)
+[[  8.   2.   4.  32.]
+ [ 16.  64. 512.   2.]
+ [  0.   2. 128.   4.]
+ [  2.   4.  32.   2.]]
+374 {'score': 8284, 'action': 'left', 'won': False} False 0
+tensor([[23.0372, 24.4668, 23.6201, 25.9712]], grad_fn=<AddmmBackward>)
+[[  8.   2.   4.  32.]
+ [ 16.  64. 512.   2.]
+ [  2. 128.   4.   2.]
+ [  2.   4.  32.   2.]]
+375 {'score': 8296, 'action': 'down', 'won': False} False 2
+tensor([[21.5826, 22.7006, 22.1218, 23.8990]], grad_fn=<AddmmBackward>)
+[[  2.   2.   4.   0.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   4.   2.]
+ [  4.   4.  32.   4.]]
+376 {'score': 8312, 'action': 'left', 'won': False} False 2
+tensor([[25.0311, 26.8876, 25.6738, 28.8113]], grad_fn=<AddmmBackward>)
+[[  4.   4.   0.   2.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   4.   2.]
+ [  8.  32.   4.   0.]]
+377 {'score': 8320, 'action': 'left', 'won': False} False 1
+tensor([[32.9280, 36.4758, 33.8078, 40.0603]], grad_fn=<AddmmBackward>)
+[[  8.   2.   2.   0.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   4.   2.]
+ [  8.  32.   4.   0.]]
+378 {'score': 8324, 'action': 'left', 'won': False} False 1
+tensor([[28.6856, 31.3248, 29.4380, 34.0171]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   2.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   4.   2.]
+ [  8.  32.   4.   0.]]
+379 {'score': 8324, 'action': 'left', 'won': False} False 0
+tensor([[32.3811, 35.8118, 33.2445, 39.2813]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   2.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   4.   2.]
+ [  8.  32.   4.   0.]]
+380 {'score': 8328, 'action': 'left', 'won': False} False 1
+tensor([[32.3505, 35.7747, 33.2130, 39.2377]], grad_fn=<AddmmBackward>)
+[[  8.   4.   4.   0.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   4.   2.]
+ [  8.  32.   4.   2.]]
+381 {'score': 8336, 'action': 'left', 'won': False} False 1
+tensor([[32.2960, 35.7084, 33.1568, 39.1600]], grad_fn=<AddmmBackward>)
+[[  8.   8.   0.   2.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   4.   2.]
+ [  8.  32.   4.   2.]]
+382 {'score': 8352, 'action': 'left', 'won': False} False 1
+tensor([[38.1075, 42.7645, 39.1428, 47.4384]], grad_fn=<AddmmBackward>)
+[[ 16.   2.   2.   0.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   4.   2.]
+ [  8.  32.   4.   2.]]
+383 {'score': 8356, 'action': 'left', 'won': False} False 1
+tensor([[27.4357, 29.8073, 28.1506, 32.2367]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   0.   2.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   4.   2.]
+ [  8.  32.   4.   2.]]
+384 {'score': 8356, 'action': 'left', 'won': False} False 0
+tensor([[31.1224, 34.2835, 31.9480, 37.4883]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   2.   2.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   4.   2.]
+ [  8.  32.   4.   2.]]
+385 {'score': 8360, 'action': 'left', 'won': False} False 1
+tensor([[31.0918, 34.2464, 31.9165, 37.4447]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   4.   2.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   4.   2.]
+ [  8.  32.   4.   2.]]
+386 {'score': 8368, 'action': 'left', 'won': False} False 1
+tensor([[31.0612, 34.2092, 31.8849, 37.4011]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   2.   2.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   4.   2.]
+ [  8.  32.   4.   2.]]
+387 {'score': 8372, 'action': 'left', 'won': False} False 1
+tensor([[37.2256, 41.6938, 38.2344, 46.1821]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   2.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   4.   2.]
+ [  8.  32.   4.   2.]]
+388 {'score': 8392, 'action': 'up', 'won': False} False 2
+tensor([[37.1950, 41.6566, 38.2028, 46.1385]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   2.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   8.   4.]
+ [  8.  32.   0.   2.]]
+389 {'score': 8392, 'action': 'left', 'won': False} False 0
+tensor([[35.5950, 39.7139, 36.5548, 43.8594]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   2.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   8.   4.]
+ [  8.  32.   2.   2.]]
+390 {'score': 8396, 'action': 'left', 'won': False} True 1
+tensor([[35.5441, 39.6521, 36.5024, 43.7868]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   2.]
+ [  8.  64. 512.  32.]
+ [ 16. 128.   8.   4.]
+ [  8.  32.   4.   2.]]
+279 {'score': 5544, 'action': 'down', 'won': False} False 1
+tensor([[386.8912, 240.3150, 393.6976, 269.1183]], grad_fn=<AddmmBackward>)
+[[  2.   2.   2.   4.]
+ [  4.   2.   8.   2.]
+ [  2.  16.  32.  16.]
+ [  4. 512.   8.   4.]]
+280 {'score': 5548, 'action': 'left', 'won': False} False 1
+tensor([[62.2422, 68.6505, 63.9309, 77.6555]], grad_fn=<AddmmBackward>)
+[[  4.   2.   4.   2.]
+ [  4.   2.   8.   2.]
+ [  2.  16.  32.  16.]
+ [  4. 512.   8.   4.]]
+281 {'score': 5584, 'action': 'up', 'won': False} False 3
+tensor([[68.9218, 65.0867, 70.5682, 72.9532]], grad_fn=<AddmmBackward>)
+[[  8.   4.   4.   4.]
+ [  2.  16.   8.  16.]
+ [  4. 512.  32.   4.]
+ [  0.   0.   8.   4.]]
+282 {'score': 5592, 'action': 'left', 'won': False} False 1
+tensor([[40.1529, 45.2480, 41.2496, 50.3520]], grad_fn=<AddmmBackward>)
+[[  8.   8.   4.   2.]
+ [  2.  16.   8.  16.]
+ [  4. 512.  32.   4.]
+ [  8.   4.   0.   0.]]
+283 {'score': 5608, 'action': 'left', 'won': False} False 1
+tensor([[49.7238, 56.8686, 51.1078, 63.9855]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   2.   0.]
+ [  2.  16.   8.  16.]
+ [  4. 512.  32.   4.]
+ [  8.   4.   2.   0.]]
+284 {'score': 5608, 'action': 'down', 'won': False} False 0
+tensor([[35.6465, 39.7764, 36.6078, 43.9327]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   2.   2.]
+ [  2.  16.   8.   0.]
+ [  4. 512.  32.  16.]
+ [  8.   4.   2.   4.]]
+285 {'score': 5612, 'action': 'left', 'won': False} False 1
+tensor([[35.9946, 40.1991, 36.9664, 44.4286]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   4.   0.]
+ [  2.  16.   8.   2.]
+ [  4. 512.  32.  16.]
+ [  8.   4.   2.   4.]]
+286 {'score': 5620, 'action': 'left', 'won': False} False 1
+tensor([[37.0192, 41.4432, 38.0218, 45.8882]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   0.   2.]
+ [  2.  16.   8.   2.]
+ [  4. 512.  32.  16.]
+ [  8.   4.   2.   4.]]
+287 {'score': 5620, 'action': 'left', 'won': False} False 0
+tensor([[39.2230, 44.1190, 40.2918, 49.0274]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   2.   2.]
+ [  2.  16.   8.   2.]
+ [  4. 512.  32.  16.]
+ [  8.   4.   2.   4.]]
+288 {'score': 5624, 'action': 'left', 'won': False} False 1
+tensor([[42.2232, 47.7616, 43.3820, 53.3010]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   2.]
+ [  2.  16.   8.   2.]
+ [  4. 512.  32.  16.]
+ [  8.   4.   2.   4.]]
+289 {'score': 5628, 'action': 'up', 'won': False} False 1
+tensor([[44.3382, 50.3297, 45.5605, 56.3139]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   4.]
+ [  2.  16.   8.  16.]
+ [  4. 512.  32.   4.]
+ [  8.   4.   2.   2.]]
+290 {'score': 5648, 'action': 'left', 'won': False} False 2
+tensor([[44.4188, 50.4274, 45.6435, 56.4286]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   8.   0.]
+ [  2.  16.   8.  16.]
+ [  4. 512.  32.   4.]
+ [  8.   4.   4.   2.]]
+291 {'score': 5664, 'action': 'down', 'won': False} False 1
+tensor([[64.7348, 50.7331, 66.0627, 55.6993]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   0.   2.]
+ [  2.  16.  16.  16.]
+ [  4. 512.  32.   4.]
+ [  8.   4.   4.   2.]]
+292 {'score': 5736, 'action': 'left', 'won': False} False 2
+tensor([[66.2267, 76.9058, 68.1061, 87.4935]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   2.   2.]
+ [  2.  32.  16.   0.]
+ [  4. 512.  32.   4.]
+ [  8.   8.   2.   0.]]
+293 {'score': 5760, 'action': 'left', 'won': False} False 2
+tensor([[26.3882, 27.6420, 27.0530, 29.6564]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   0.]
+ [  2.  32.  16.   0.]
+ [  4. 512.  32.   4.]
+ [ 16.   2.   0.   2.]]
+294 {'score': 5764, 'action': 'left', 'won': False} False 1
+tensor([[27.2996, 29.6420, 28.0104, 32.0428]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   0.]
+ [  2.  32.  16.   0.]
+ [  4. 512.  32.   4.]
+ [ 16.   4.   2.   0.]]
+295 {'score': 5764, 'action': 'up', 'won': False} False 0
+tensor([[27.2048, 29.5269, 27.9128, 31.9078]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   4.]
+ [  2.  32.  16.   0.]
+ [  4. 512.  32.   2.]
+ [ 16.   4.   2.   0.]]
+296 {'score': 5772, 'action': 'left', 'won': False} False 1
+tensor([[27.8927, 30.3621, 28.6213, 32.8877]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   8.   0.]
+ [  2.  32.  16.   0.]
+ [  4. 512.  32.   2.]
+ [ 16.   4.   2.   2.]]
+297 {'score': 5808, 'action': 'left', 'won': False} False 2
+tensor([[31.1573, 34.3259, 31.9840, 37.5380]], grad_fn=<AddmmBackward>)
+[[ 16.  16.   0.   0.]
+ [  2.  32.  16.   2.]
+ [  4. 512.  32.   2.]
+ [ 16.   4.   4.   0.]]
+298 {'score': 5880, 'action': 'left', 'won': False} False 2
+tensor([[33.8658, 37.6144, 34.7737, 41.3961]], grad_fn=<AddmmBackward>)
+[[ 32.   0.   0.   0.]
+ [  2.  32.  16.   2.]
+ [  4. 512.  32.   2.]
+ [ 16.   8.   0.   2.]]
+299 {'score': 5884, 'action': 'down', 'won': False} False 1
+tensor([[20.2216, 19.6364, 20.6906, 20.2410]], grad_fn=<AddmmBackward>)
+[[ 32.   0.   0.   0.]
+ [  2.  32.   0.   2.]
+ [  4. 512.  16.   2.]
+ [ 16.   8.  32.   4.]]
+300 {'score': 5888, 'action': 'down', 'won': False} False 1
+tensor([[20.9490, 20.0742, 21.4305, 20.7347]], grad_fn=<AddmmBackward>)
+[[ 32.   0.   2.   0.]
+ [  2.  32.   0.   0.]
+ [  4. 512.  16.   4.]
+ [ 16.   8.  32.   4.]]
+301 {'score': 5896, 'action': 'down', 'won': False} False 1
+tensor([[16.2357, 16.2087, 16.6144, 16.2826]], grad_fn=<AddmmBackward>)
+[[ 32.   0.   0.   0.]
+ [  2.  32.   2.   0.]
+ [  4. 512.  16.   2.]
+ [ 16.   8.  32.   8.]]
+302 {'score': 5896, 'action': 'up', 'won': False} False 0
+tensor([[18.3686, 18.5211, 18.8055, 18.9832]], grad_fn=<AddmmBackward>)
+[[ 32.  32.   2.   2.]
+ [  2. 512.  16.   8.]
+ [  4.   8.  32.   2.]
+ [ 16.   0.   0.   0.]]
+303 {'score': 5896, 'action': 'down', 'won': False} False 0
+tensor([[22.1139, 20.7753, 22.6156, 21.5254]], grad_fn=<AddmmBackward>)
+[[ 32.   0.   2.   0.]
+ [  2.  32.   2.   2.]
+ [  4. 512.  16.   8.]
+ [ 16.   8.  32.   2.]]
+304 {'score': 5900, 'action': 'left', 'won': False} False 1
+tensor([[27.3806, 29.7404, 28.0939, 32.1582]], grad_fn=<AddmmBackward>)
+[[ 32.   2.   4.   0.]
+ [  2.  32.   4.   0.]
+ [  4. 512.  16.   8.]
+ [ 16.   8.  32.   2.]]
+305 {'score': 5908, 'action': 'down', 'won': False} False 1
+tensor([[29.9740, 25.5059, 30.6116, 26.8605]], grad_fn=<AddmmBackward>)
+[[ 32.   2.   0.   2.]
+ [  2.  32.   8.   0.]
+ [  4. 512.  16.   8.]
+ [ 16.   8.  32.   2.]]
+306 {'score': 5908, 'action': 'down', 'won': False} False 0
+tensor([[20.3196, 19.6953, 20.7902, 20.3075]], grad_fn=<AddmmBackward>)
+[[ 32.   2.   0.   2.]
+ [  2.  32.   8.   2.]
+ [  4. 512.  16.   8.]
+ [ 16.   8.  32.   2.]]
+307 {'score': 5912, 'action': 'down', 'won': False} False 1
+tensor([[19.6925, 19.3179, 20.1523, 19.8818]], grad_fn=<AddmmBackward>)
+[[ 32.   2.   2.   0.]
+ [  2.  32.   8.   4.]
+ [  4. 512.  16.   8.]
+ [ 16.   8.  32.   2.]]
+308 {'score': 5916, 'action': 'right', 'won': False} False 1
+tensor([[21.0354, 20.1262, 21.5184, 20.7933]], grad_fn=<AddmmBackward>)
+[[  0.   2.  32.   4.]
+ [  2.  32.   8.   4.]
+ [  4. 512.  16.   8.]
+ [ 16.   8.  32.   2.]]
+309 {'score': 5924, 'action': 'down', 'won': False} False 1
+tensor([[35.4289, 28.7888, 36.1607, 30.5629]], grad_fn=<AddmmBackward>)
+[[  0.   2.  32.   2.]
+ [  2.  32.   8.   8.]
+ [  4. 512.  16.   8.]
+ [ 16.   8.  32.   2.]]
+310 {'score': 5940, 'action': 'left', 'won': False} False 1
+tensor([[35.5283, 39.6330, 36.4861, 43.7644]], grad_fn=<AddmmBackward>)
+[[  2.  32.   2.   0.]
+ [  2.  32.  16.   2.]
+ [  4. 512.  16.   8.]
+ [ 16.   8.  32.   2.]]
+311 {'score': 6108, 'action': 'down', 'won': False} False 3
+tensor([[90.5538, 61.9655, 92.2383, 67.9790]], grad_fn=<AddmmBackward>)
+[[  2.   0.   0.   0.]
+ [  4.  64.   2.   2.]
+ [  4. 512.  32.   8.]
+ [ 16.   8.  32.   2.]]
+312 {'score': 6112, 'action': 'left', 'won': False} False 1
+tensor([[27.9326, 30.4106, 28.6624, 32.9445]], grad_fn=<AddmmBackward>)
+[[  2.   0.   0.   0.]
+ [  4.  64.   4.   2.]
+ [  4. 512.  32.   8.]
+ [ 16.   8.  32.   2.]]
+313 {'score': 6248, 'action': 'down', 'won': False} False 2
+tensor([[28.7227, 24.7528, 29.3386, 26.0111]], grad_fn=<AddmmBackward>)
+[[  2.   0.   0.   0.]
+ [  2.  64.   0.   2.]
+ [  8. 512.   4.   8.]
+ [ 16.   8.  64.   2.]]
+314 {'score': 6252, 'action': 'down', 'won': False} False 1
+tensor([[31.3616, 26.3409, 32.0231, 27.8023]], grad_fn=<AddmmBackward>)
+[[  2.   0.   0.   0.]
+ [  4.  64.   0.   2.]
+ [  8. 512.   4.   8.]
+ [ 16.   8.  64.   2.]]
+315 {'score': 6252, 'action': 'right', 'won': False} False 0
+tensor([[27.7570, 24.1715, 28.3562, 25.3556]], grad_fn=<AddmmBackward>)
+[[  0.   0.   2.   2.]
+ [  0.   4.  64.   2.]
+ [  8. 512.   4.   8.]
+ [ 16.   8.  64.   2.]]
+316 {'score': 6256, 'action': 'down', 'won': False} False 1
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[  0.   0.   2.   0.]
+ [  4.   4.  64.   4.]
+ [  8. 512.   4.   8.]
+ [ 16.   8.  64.   2.]]
+317 {'score': 6264, 'action': 'left', 'won': False} False 1
+tensor([[30.7281, 33.8048, 31.5419, 36.9266]], grad_fn=<AddmmBackward>)
+[[  2.   2.   0.   0.]
+ [  8.  64.   4.   0.]
+ [  8. 512.   4.   8.]
+ [ 16.   8.  64.   2.]]
+318 {'score': 6304, 'action': 'down', 'won': False} False 2
+tensor([[36.1752, 29.2380, 36.9199, 31.0695]], grad_fn=<AddmmBackward>)
+[[  0.   2.   0.   2.]
+ [  2.  64.   0.   0.]
+ [ 16. 512.   8.   8.]
+ [ 16.   8.  64.   2.]]
+319 {'score': 6336, 'action': 'down', 'won': False} False 1
+tensor([[20.7462, 19.9521, 21.2243, 20.5971]], grad_fn=<AddmmBackward>)
+[[  2.   2.   0.   0.]
+ [  0.  64.   0.   2.]
+ [  2. 512.   8.   8.]
+ [ 32.   8.  64.   2.]]
+320 {'score': 6340, 'action': 'down', 'won': False} False 1
+tensor([[19.0875, 18.9539, 19.5369, 19.4712]], grad_fn=<AddmmBackward>)
+[[  0.   2.   4.   0.]
+ [  0.  64.   0.   2.]
+ [  4. 512.   8.   8.]
+ [ 32.   8.  64.   2.]]
+321 {'score': 6340, 'action': 'down', 'won': False} False 0
+tensor([[20.6733, 19.9083, 21.1501, 20.5476]], grad_fn=<AddmmBackward>)
+[[  0.   2.   0.   0.]
+ [  2.  64.   4.   2.]
+ [  4. 512.   8.   8.]
+ [ 32.   8.  64.   2.]]
+322 {'score': 6340, 'action': 'up', 'won': False} False 0
+tensor([[24.6512, 22.3023, 25.1967, 23.2476]], grad_fn=<AddmmBackward>)
+[[  2.   2.   4.   2.]
+ [  4.  64.   8.   8.]
+ [ 32. 512.  64.   2.]
+ [  2.   8.   0.   0.]]
+323 {'score': 6364, 'action': 'left', 'won': False} False 2
+tensor([[33.5340, 37.2116, 34.4320, 40.9236]], grad_fn=<AddmmBackward>)
+[[  4.   4.   2.   0.]
+ [  4.  64.  16.   2.]
+ [ 32. 512.  64.   2.]
+ [  2.   8.   0.   0.]]
+324 {'score': 6380, 'action': 'down', 'won': False} False 2
+tensor([[31.7266, 26.5607, 32.3945, 28.0500]], grad_fn=<AddmmBackward>)
+[[  0.   4.   0.   2.]
+ [  8.  64.   2.   0.]
+ [ 32. 512.  16.   0.]
+ [  2.   8.  64.   4.]]
+325 {'score': 6380, 'action': 'down', 'won': False} False 0
+tensor([[15.5753, 15.4068, 15.9341, 15.3418]], grad_fn=<AddmmBackward>)
+[[  2.   4.   0.   0.]
+ [  8.  64.   2.   0.]
+ [ 32. 512.  16.   2.]
+ [  2.   8.  64.   4.]]
+326 {'score': 6380, 'action': 'right', 'won': False} False 0
+tensor([[19.6464, 19.2902, 20.1054, 19.8506]], grad_fn=<AddmmBackward>)
+[[  0.   2.   2.   4.]
+ [  0.   8.  64.   2.]
+ [ 32. 512.  16.   2.]
+ [  2.   8.  64.   4.]]
+327 {'score': 6384, 'action': 'down', 'won': False} False 1
+tensor([[16.9622, 17.0908, 17.3627, 17.3174]], grad_fn=<AddmmBackward>)
+[[  2.   2.   2.   0.]
+ [  0.   8.  64.   4.]
+ [ 32. 512.  16.   4.]
+ [  2.   8.  64.   4.]]
+328 {'score': 6388, 'action': 'left', 'won': False} False 1
+tensor([[55.5135, 63.8983, 57.0713, 72.2328]], grad_fn=<AddmmBackward>)
+[[  4.   2.   4.   0.]
+ [  8.  64.   4.   0.]
+ [ 32. 512.  16.   4.]
+ [  2.   8.  64.   4.]]
+329 {'score': 6412, 'action': 'down', 'won': False} False 2
+tensor([[43.3732, 33.5701, 44.2423, 35.9552]], grad_fn=<AddmmBackward>)
+[[  4.   2.   2.   0.]
+ [  8.  64.   8.   0.]
+ [ 32. 512.  16.   0.]
+ [  2.   8.  64.   8.]]
+330 {'score': 6416, 'action': 'left', 'won': False} False 1
+tensor([[30.1112, 25.5884, 30.7511, 26.9536]], grad_fn=<AddmmBackward>)
+[[  4.   4.   0.   2.]
+ [  8.  64.   8.   0.]
+ [ 32. 512.  16.   0.]
+ [  2.   8.  64.   8.]]
+331 {'score': 6416, 'action': 'down', 'won': False} False 0
+tensor([[30.9516, 26.0942, 31.6060, 27.5240]], grad_fn=<AddmmBackward>)
+[[  4.   4.   0.   0.]
+ [  8.  64.   8.   2.]
+ [ 32. 512.  16.   2.]
+ [  2.   8.  64.   8.]]
+332 {'score': 6420, 'action': 'down', 'won': False} False 1
+tensor([[32.0363, 26.7470, 32.7095, 28.2602]], grad_fn=<AddmmBackward>)
+[[  4.   4.   0.   0.]
+ [  8.  64.   8.   2.]
+ [ 32. 512.  16.   4.]
+ [  2.   8.  64.   8.]]
+333 {'score': 6420, 'action': 'up', 'won': False} False 0
+tensor([[32.7713, 27.1894, 33.4572, 28.7591]], grad_fn=<AddmmBackward>)
+[[  4.   4.   8.   2.]
+ [  8.  64.  16.   4.]
+ [ 32. 512.  64.   8.]
+ [  2.   8.   0.   2.]]
+334 {'score': 6420, 'action': 'down', 'won': False} False 0
+tensor([[36.1230, 29.2066, 36.8668, 31.0341]], grad_fn=<AddmmBackward>)
+[[  4.   4.   2.   2.]
+ [  8.  64.   8.   4.]
+ [ 32. 512.  16.   8.]
+ [  2.   8.  64.   2.]]
+335 {'score': 6440, 'action': 'left', 'won': False} False 2
+tensor([[32.9960, 27.3246, 33.6857, 28.9116]], grad_fn=<AddmmBackward>)
+[[  8.   4.   2.   0.]
+ [  8.  64.   8.   4.]
+ [ 32. 512.  16.   8.]
+ [  2.   8.  64.   2.]]
+336 {'score': 6456, 'action': 'down', 'won': False} False 1
+tensor([[38.4981, 30.6360, 39.2830, 32.6462]], grad_fn=<AddmmBackward>)
+[[  0.   4.   2.   2.]
+ [ 16.  64.   8.   4.]
+ [ 32. 512.  16.   8.]
+ [  2.   8.  64.   2.]]
+337 {'score': 6456, 'action': 'up', 'won': False} False 0
+tensor([[15.2536, 15.0162, 15.6028, 14.8835]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   2.   2.]
+ [ 32.  64.   8.   4.]
+ [  2. 512.  16.   8.]
+ [  2.   8.  64.   2.]]
+338 {'score': 6460, 'action': 'left', 'won': False} False 1
+tensor([[34.7719, 38.7146, 35.7071, 42.6870]], grad_fn=<AddmmBackward>)
+[[ 16.   4.   4.   2.]
+ [ 32.  64.   8.   4.]
+ [  2. 512.  16.   8.]
+ [  2.   8.  64.   2.]]
+339 {'score': 6468, 'action': 'left', 'won': False} False 1
+tensor([[34.3514, 38.2041, 35.2739, 42.0879]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   2.   2.]
+ [ 32.  64.   8.   4.]
+ [  2. 512.  16.   8.]
+ [  2.   8.  64.   2.]]
+340 {'score': 6472, 'action': 'left', 'won': False} False 1
+tensor([[33.9641, 37.5365, 34.8709, 41.2959]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   2.]
+ [ 32.  64.   8.   4.]
+ [  2. 512.  16.   8.]
+ [  2.   8.  64.   2.]]
+341 {'score': 6476, 'action': 'up', 'won': False} False 1
+tensor([[34.6102, 36.6535, 35.5017, 40.1855]], grad_fn=<AddmmBackward>)
+[[ 16.   8.   4.   2.]
+ [ 32.  64.   8.   4.]
+ [  4. 512.  16.   8.]
+ [  4.   8.  64.   2.]]
+342 {'score': 6484, 'action': 'down', 'won': False} False 1
+tensor([[35.5989, 34.9634, 36.4599, 38.0735]], grad_fn=<AddmmBackward>)
+[[  2.   8.   4.   2.]
+ [ 16.  64.   8.   4.]
+ [ 32. 512.  16.   8.]
+ [  8.   8.  64.   2.]]
+343 {'score': 6500, 'action': 'right', 'won': False} True 1
+tensor([[15.8721, 15.7671, 16.2398, 15.7645]], grad_fn=<AddmmBackward>)
+[[  2.   8.   4.   2.]
+ [ 16.  64.   8.   4.]
+ [ 32. 512.  16.   8.]
+ [  2.  16.  64.   2.]]
+260 {'score': 5456, 'action': 'left', 'won': False} False 4
+tensor([[208.0298, 249.0777, 214.1660, 289.4885]], grad_fn=<AddmmBackward>)
+[[  0.   0.   0.   0.]
+ [  4.   8.   0.   0.]
+ [ 16.   4.   0.   0.]
+ [  2. 512.  16.   2.]]
+261 {'score': 5456, 'action': 'up', 'won': False} False 0
+tensor([[15.3732, 15.1614, 15.7260, 15.0539]], grad_fn=<AddmmBackward>)
+[[  4.   8.  16.   2.]
+ [ 16.   4.   0.   0.]
+ [  2. 512.   0.   0.]
+ [  0.   2.   0.   0.]]
+262 {'score': 5456, 'action': 'down', 'won': False} False 0
+tensor([[35.6750, 28.9370, 36.4111, 30.7300]], grad_fn=<AddmmBackward>)
+[[  0.   8.   0.   0.]
+ [  4.   4.   0.   0.]
+ [ 16. 512.   2.   0.]
+ [  2.   2.  16.   2.]]
+263 {'score': 5476, 'action': 'left', 'won': False} False 2
+tensor([[45.6118, 51.8760, 46.8723, 58.1281]], grad_fn=<AddmmBackward>)
+[[  8.   4.   0.   0.]
+ [  8.   0.   0.   0.]
+ [ 16. 512.   2.   0.]
+ [  4.  16.   2.   0.]]
+264 {'score': 5500, 'action': 'down', 'won': False} False 2
+tensor([[65.6555, 46.9806, 66.9097, 51.0793]], grad_fn=<AddmmBackward>)
+[[  0.   2.   0.   0.]
+ [ 16.   4.   0.   0.]
+ [ 16. 512.   0.   0.]
+ [  4.  16.   4.   0.]]
+265 {'score': 5532, 'action': 'down', 'won': False} False 1
+tensor([[44.3935, 34.1842, 45.2803, 36.6477]], grad_fn=<AddmmBackward>)
+[[  0.   2.   2.   0.]
+ [  0.   4.   0.   0.]
+ [ 32. 512.   0.   0.]
+ [  4.  16.   4.   0.]]
+266 {'score': 5532, 'action': 'down', 'won': False} False 0
+tensor([[45.7168, 34.9806, 46.6264, 37.5459]], grad_fn=<AddmmBackward>)
+[[  0.   2.   0.   0.]
+ [  2.   4.   0.   0.]
+ [ 32. 512.   2.   0.]
+ [  4.  16.   4.   0.]]
+267 {'score': 5532, 'action': 'left', 'won': False} False 0
+tensor([[60.3441, 54.8284, 61.7363, 60.9249]], grad_fn=<AddmmBackward>)
+[[  2.   0.   0.   0.]
+ [  2.   4.   2.   0.]
+ [ 32. 512.   2.   0.]
+ [  4.  16.   4.   0.]]
+268 {'score': 5544, 'action': 'up', 'won': False} False 2
+tensor([[49.5365, 56.6412, 50.9149, 63.7187]], grad_fn=<AddmmBackward>)
+[[  4.   4.   4.   0.]
+ [ 32. 512.   4.   0.]
+ [  4.  16.   0.   0.]
+ [  2.   0.   0.   0.]]
+269 {'score': 5552, 'action': 'down', 'won': False} False 1
+tensor([[35.7447, 28.9789, 36.4820, 30.7773]], grad_fn=<AddmmBackward>)
+[[  4.   0.   0.   0.]
+ [ 32.   4.   2.   0.]
+ [  4. 512.   0.   0.]
+ [  2.  16.   8.   0.]]
+270 {'score': 5552, 'action': 'down', 'won': False} False 0
+tensor([[27.7395, 24.1610, 28.3384, 25.3438]], grad_fn=<AddmmBackward>)
+[[  4.   0.   0.   0.]
+ [ 32.   4.   0.   2.]
+ [  4. 512.   2.   0.]
+ [  2.  16.   8.   0.]]
+271 {'score': 5552, 'action': 'down', 'won': False} False 0
+tensor([[28.3591, 24.5339, 28.9687, 25.7643]], grad_fn=<AddmmBackward>)
+[[  4.   0.   0.   0.]
+ [ 32.   4.   4.   0.]
+ [  4. 512.   2.   0.]
+ [  2.  16.   8.   2.]]
+272 {'score': 5552, 'action': 'up', 'won': False} False 0
+tensor([[28.7466, 24.7672, 29.3630, 26.0274]], grad_fn=<AddmmBackward>)
+[[  4.   4.   4.   2.]
+ [ 32. 512.   2.   2.]
+ [  4.  16.   8.   0.]
+ [  2.   0.   0.   0.]]
+273 {'score': 5556, 'action': 'down', 'won': False} False 1
+tensor([[30.9477, 26.0919, 31.6021, 27.5214]], grad_fn=<AddmmBackward>)
+[[  4.   2.   0.   0.]
+ [ 32.   4.   4.   0.]
+ [  4. 512.   2.   0.]
+ [  2.  16.   8.   4.]]
+274 {'score': 5564, 'action': 'right', 'won': False} False 1
+tensor([[47.9567, 36.3287, 48.9051, 39.0662]], grad_fn=<AddmmBackward>)
+[[  4.   0.   4.   2.]
+ [  0.   0.  32.   8.]
+ [  0.   4. 512.   2.]
+ [  2.  16.   8.   4.]]
+275 {'score': 5572, 'action': 'left', 'won': False} False 1
+tensor([[24.0867, 25.7411, 24.7011, 27.4661]], grad_fn=<AddmmBackward>)
+[[  8.   2.   2.   0.]
+ [ 32.   8.   0.   0.]
+ [  4. 512.   2.   0.]
+ [  2.  16.   8.   4.]]
+276 {'score': 5576, 'action': 'down', 'won': False} False 1
+tensor([[28.9611, 24.8962, 29.5811, 26.1729]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   2.]
+ [ 32.   8.   0.   0.]
+ [  4. 512.   4.   0.]
+ [  2.  16.   8.   4.]]
+277 {'score': 5576, 'action': 'down', 'won': False} False 0
+tensor([[26.5388, 23.4384, 27.1169, 24.5288]], grad_fn=<AddmmBackward>)
+[[  8.   2.   4.   0.]
+ [ 32.   8.   0.   0.]
+ [  4. 512.   4.   2.]
+ [  2.  16.   8.   4.]]
+278 {'score': 5584, 'action': 'down', 'won': False} False 1
+tensor([[25.6578, 22.9081, 26.2207, 23.9308]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   4.]
+ [ 32.   8.   0.   0.]
+ [  4. 512.   8.   2.]
+ [  2.  16.   8.   4.]]
+279 {'score': 5600, 'action': 'down', 'won': False} False 1
+tensor([[26.2445, 23.2613, 26.8176, 24.3290]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   2.]
+ [ 32.   8.   0.   4.]
+ [  4. 512.   0.   2.]
+ [  2.  16.  16.   4.]]
+280 {'score': 5600, 'action': 'up', 'won': False} False 0
+tensor([[30.3381, 25.7250, 30.9819, 27.1076]], grad_fn=<AddmmBackward>)
+[[  8.   2.  16.   2.]
+ [ 32.   8.   0.   4.]
+ [  4. 512.   2.   2.]
+ [  2.  16.   0.   4.]]
+281 {'score': 5600, 'action': 'down', 'won': False} False 0
+tensor([[28.9428, 24.8852, 29.5625, 26.1605]], grad_fn=<AddmmBackward>)
+[[  8.   2.   0.   2.]
+ [ 32.   8.   2.   4.]
+ [  4. 512.  16.   2.]
+ [  2.  16.   2.   4.]]
+282 {'score': 5604, 'action': 'right', 'won': False} False 1
+tensor([[28.8288, 24.8166, 29.4466, 26.0832]], grad_fn=<AddmmBackward>)
+[[  0.   2.   8.   4.]
+ [ 32.   8.   2.   4.]
+ [  4. 512.  16.   2.]
+ [  2.  16.   2.   4.]]
+283 {'score': 5612, 'action': 'down', 'won': False} False 1
+tensor([[27.5798, 24.0649, 28.1759, 25.2353]], grad_fn=<AddmmBackward>)
+[[  4.   2.   8.   0.]
+ [ 32.   8.   2.   8.]
+ [  4. 512.  16.   2.]
+ [  2.  16.   2.   4.]]
+284 {'score': 5612, 'action': 'up', 'won': False} False 0
+tensor([[28.1426, 24.4036, 28.7485, 25.6174]], grad_fn=<AddmmBackward>)
+[[  4.   2.   8.   8.]
+ [ 32.   8.   2.   2.]
+ [  4. 512.  16.   4.]
+ [  2.  16.   2.   2.]]
+285 {'score': 5672, 'action': 'left', 'won': False} False 3
+tensor([[30.5265, 33.5599, 31.3341, 36.6394]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   0.]
+ [ 32.   8.   4.   2.]
+ [  4. 512.  16.   4.]
+ [  2.  16.   4.   0.]]
+286 {'score': 5672, 'action': 'down', 'won': False} False 0
+tensor([[28.5754, 24.6641, 29.1887, 25.9111]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   0.]
+ [ 32.   8.   4.   2.]
+ [  4. 512.  16.   2.]
+ [  2.  16.   4.   4.]]
+287 {'score': 5676, 'action': 'down', 'won': False} False 1
+tensor([[28.1906, 24.4325, 28.7974, 25.6500]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   4.]
+ [ 32.   8.   4.   0.]
+ [  4. 512.  16.   4.]
+ [  2.  16.   4.   4.]]
+288 {'score': 5684, 'action': 'down', 'won': False} False 1
+tensor([[28.1608, 24.4146, 28.7670, 25.6297]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   2.]
+ [ 32.   8.   4.   0.]
+ [  4. 512.  16.   4.]
+ [  2.  16.   4.   8.]]
+289 {'score': 5684, 'action': 'down', 'won': False} False 0
+tensor([[28.2037, 24.4404, 28.8107, 25.6589]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   2.]
+ [ 32.   8.   4.   2.]
+ [  4. 512.  16.   4.]
+ [  2.  16.   4.   8.]]
+290 {'score': 5688, 'action': 'down', 'won': False} False 1
+tensor([[28.8917, 24.8545, 29.5105, 26.1258]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   2.]
+ [ 32.   8.   4.   4.]
+ [  4. 512.  16.   4.]
+ [  2.  16.   4.   8.]]
+291 {'score': 5696, 'action': 'left', 'won': False} False 1
+tensor([[32.0472, 35.4064, 32.9006, 38.8057]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   2.]
+ [ 32.   8.   8.   2.]
+ [  4. 512.  16.   4.]
+ [  2.  16.   4.   8.]]
+292 {'score': 5700, 'action': 'down', 'won': False} False 1
+tensor([[29.3911, 25.1550, 30.0185, 26.4648]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   4.]
+ [ 32.   8.   8.   4.]
+ [  4. 512.  16.   4.]
+ [  2.  16.   4.   8.]]
+293 {'score': 5708, 'action': 'down', 'won': False} False 1
+tensor([[29.1582, 25.0149, 29.7817, 26.3067]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   2.]
+ [ 32.   8.   8.   4.]
+ [  4. 512.  16.   8.]
+ [  2.  16.   4.   8.]]
+294 {'score': 5724, 'action': 'down', 'won': False} False 1
+tensor([[31.2066, 26.2477, 31.8654, 27.6971]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   2.]
+ [ 32.   8.   8.   2.]
+ [  4. 512.  16.   4.]
+ [  2.  16.   4.  16.]]
+295 {'score': 5728, 'action': 'down', 'won': False} False 1
+tensor([[29.2936, 25.0963, 29.9193, 26.3986]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   2.]
+ [ 32.   8.   8.   4.]
+ [  4. 512.  16.   4.]
+ [  2.  16.   4.  16.]]
+296 {'score': 5736, 'action': 'down', 'won': False} False 1
+tensor([[29.0027, 24.9212, 29.6234, 26.2011]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   2.]
+ [ 32.   8.   8.   2.]
+ [  4. 512.  16.   8.]
+ [  2.  16.   4.  16.]]
+297 {'score': 5740, 'action': 'down', 'won': False} False 1
+tensor([[30.0035, 25.5236, 30.6415, 26.8804]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   4.]
+ [ 32.   8.   8.   4.]
+ [  4. 512.  16.   8.]
+ [  2.  16.   4.  16.]]
+298 {'score': 5748, 'action': 'down', 'won': False} False 1
+tensor([[31.2123, 26.2511, 31.8712, 27.7009]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   2.]
+ [ 32.   8.   8.   8.]
+ [  4. 512.  16.   8.]
+ [  2.  16.   4.  16.]]
+299 {'score': 5764, 'action': 'left', 'won': False} False 1
+tensor([[38.4977, 43.2383, 39.5447, 47.9942]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   2.]
+ [ 32.  16.   8.   2.]
+ [  4. 512.  16.   8.]
+ [  2.  16.   4.  16.]]
+300 {'score': 5768, 'action': 'down', 'won': False} True 1
+tensor([[26.9586, 23.6910, 27.5440, 24.8137]], grad_fn=<AddmmBackward>)
+[[  4.   2.  16.   2.]
+ [ 32.  16.   8.   4.]
+ [  4. 512.  16.   8.]
+ [  2.  16.   4.  16.]]
